@@ -1,6 +1,7 @@
 create database 'Petkeeper'
 
 ---4
+---5
 create table users 
 ( id int primary key, 
 login varchar(30) UNIQUE,
